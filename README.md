@@ -11,7 +11,7 @@ report format.
 
 ## Contents:
 ### Back Porch
-- I was tasked by my parents to learn building code and get to work building them a back deck!
+- I was tasked by my parents to learn international building code and get to work building them a back deck! In the process I learned how to make parts and assemblies in SolidWorks.
 ### Bedframe Project
 - I made a sweet bed frame from refurbished barn hardwood flooring.
 ### Business Plan Prep
